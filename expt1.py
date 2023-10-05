@@ -1,4 +1,4 @@
-#PROGRAM FOR SWAPPING TWO NUMBERS AND CHECKING IT'S SIGN
+
 
 a = input("\nEnter the first number: ")
 b = input("\nEnter the second number: ")
